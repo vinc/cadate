@@ -1,6 +1,9 @@
 Cadate
 ======
 
+[![npm](https://img.shields.io/npm/v/cadate.svg)](https://www.npmjs.com/package/cadate)
+[![NpmLicense](https://img.shields.io/npm/l/cadate.svg)](https://github.com/vinc/cadate/blob/master/LICENSE)
+
 Display the date in many calendars and formats
 
 
