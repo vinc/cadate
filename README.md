@@ -7,6 +7,12 @@ Cadate
 Display the date in many calendars and formats
 
 
+Install
+-------
+
+    $ sudo npm install --global cadate
+
+
 Usage
 -----
 
